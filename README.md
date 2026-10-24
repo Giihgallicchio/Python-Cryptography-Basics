@@ -1,4 +1,4 @@
-# 🔐 PROJETO — CRIPTOGRAFIA
+# PROJETO — CRIPTOGRAFIA
 
 ## 📌 Tema do Projeto
 ### Exercício Introdutório de Lógica e Criptografia em Python
